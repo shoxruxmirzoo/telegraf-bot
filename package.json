@@ -1,0 +1,17 @@
+{
+  "name": "tgbot",
+  "version": "1.0.0",
+  "description": "Telegram chatbot for Robocode IT Academy",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "run"
+  },
+  "keywords": [
+    "bot",
+    "tgbot"
+  ],
+  "author": "Shokhrukhmirzo Kholmirzaev",
+  "license": "ISC"
+}
